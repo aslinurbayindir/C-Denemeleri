@@ -4,7 +4,7 @@ typedef enum{
 	bayan //1
 }cinsiyet;
 
-typedef enum{
+typedef enum{ // enuminator tipi numaralandırmak için kullanılır.
 	pazartesi,
 	sali,
 	carsamba,
