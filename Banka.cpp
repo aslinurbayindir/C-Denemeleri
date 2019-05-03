@@ -8,8 +8,8 @@
 int main()
 {
 
-	system("title Salim Ugur DEMIRTAS Borc Hesaplama");
-	printf("\n\t---------------- Salim Ugur DEMIRTAS Borc Hesaplama ----------------\n\n");
+	system("title Nebiye Aslınur BAYINDIR Borc Hesaplama");
+	printf("\n\t---------------- Nebiye Aslınur BAYINDIR Borc Hesaplama ----------------\n\n");
  	
  	int secim; // int yani integer demek tam sayı değerleri için kullanılır.
 	float borc,odeme,toplam_devreden_borc,kalan,gecikme_faizi,vergi;   // float virgüllü sayı değerleri atayabilmek içindir.
